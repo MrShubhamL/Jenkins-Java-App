@@ -5,5 +5,7 @@ public class App {
         System.out.println("Welcome to the jenkins server");
         System.out.println(new Date());
         System.out.println("Hello");
+        Student student = new Student();
+        student.sayHello();
     }
 }
