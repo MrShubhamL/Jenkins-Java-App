@@ -4,5 +4,6 @@ public class App {
         System.out.println("This is simple java console app");
         System.out.println("Welcome to the jenkins server");
         System.out.println(new Date());
+        System.out.println("Hello");
     }
 }
